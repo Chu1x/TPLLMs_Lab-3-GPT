@@ -1,0 +1,4 @@
+*.bin
+*.pkl
+poetry_corpus.txt
+__pycache__/
